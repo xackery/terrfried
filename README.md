@@ -1,2 +1,2 @@
-# terrfried
-terrfried docker hub image
+# terrifried
+terrifried docker hub image
